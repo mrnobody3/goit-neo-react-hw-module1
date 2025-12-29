@@ -1,6 +1,6 @@
-import clsx from "clsx";
-import css from "./Profile.module.css";
-const Profile = (props) => {
+import clsx from 'clsx';
+import css from './Profile.module.css';
+const Profile = props => {
   const {
     name,
     tag,

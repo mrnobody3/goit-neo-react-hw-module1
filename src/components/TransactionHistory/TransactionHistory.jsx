@@ -1,5 +1,5 @@
-import clsx from "clsx";
-import css from "./TransactionHistory.module.css";
+import clsx from 'clsx';
+import css from './TransactionHistory.module.css';
 const TransactionHistory = ({ items }) => {
   return (
     <table className={clsx(css.table)}>
